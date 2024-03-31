@@ -5,6 +5,10 @@ int main(){
     for(int i = 0;i < 5;i++){
         printf("%s\n",word[i]);
     }
+    printf("\n");
+
+    printf("%c\n",word[3][10]);
+
 
     return 0;
 }
